@@ -1,7 +1,7 @@
 ---
-title: "Qi Zhao - Publications"
+title: "Guoqiang SHI - Publications"
 layout: gridlay
-excerpt: "Qi Zhao -- Publications."
+excerpt: "Guoqiang SHI -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=zh-CN&authuser=1).
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=MbaoUzsAAAAJ&hl=zh-CN).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,11 +51,8 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 ## Patents
-<em> Xiongfeng Ma and Qi Zhao </em><br />Measurement-device-independent quantum key distribution with biasedbasis choice<br /> Patent number: ZL201621455743.9
+<em> Guoqiang SHI </em><br />Milli<br /> Patent number: 
 
-<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution based on two-way classical communication <br /> Patent number: ZL201621440463.0
-
-<em> Xiongfeng Ma and Qi Zhao </em><br />Quantum key distribution data postprocessing for detector efficiencymismatc <br /> Patent number: CN105049200A
 
 ## Full List of Publications
 
