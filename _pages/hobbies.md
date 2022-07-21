@@ -1,8 +1,8 @@
 ---
-title: "Qi Zhao - Hobbies."
+title: "Guoqiang SHI - Hobbies."
 layout: hobbylay
-excerpt: "Qi Zhao - Hobbies."
+excerpt: "Guoqiang SHI - Hobbies."
 sitemap: false
 permalink: /hobbies
 ---
-I play dota.
+Painting.
