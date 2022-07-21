@@ -1,5 +1,5 @@
 ---
-title: "Qi Zhao - Openings"
+title: "Guoqiang SHI - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
