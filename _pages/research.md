@@ -1,7 +1,7 @@
 ---
-title: "Qi Zhao - Research."
+title: "Guoqiang SHI - Research."
 layout: gridlay
-excerpt: "Qi Zhao - Research."
+excerpt: "Guoqiang SHI - Research."
 sitemap: false
 permalink: /research/
 ---
