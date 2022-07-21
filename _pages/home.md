@@ -1,21 +1,21 @@
 ---
-title: "Qi Zhao - Home"
+title: "Guoqiang SHI - Home"
 layout: homelay
-excerpt: "Qi Zhao"
+excerpt: "Guoqiang SHI"
 sitemap: false
 permalink: /
 ---
-Dr. Qi Zhao is a Tenure-Track Assistant Professor in the Department of Computer Science, the University of Hongkong (HKU). 
+Dr. Guoqiang SHI is a Research Assistant Professor in the Department . 
 
-His research interests include quantum simulation, quanutm computing, resource theory, self-testing quantum information, and entanglement detection.
+His research interests include .
 
-He is interested in any fundamental problem in quantum information, and the practical applications of quantum computers.
+He is interested in .
 
-He received his PhD degree from Tsinghua University in Dec. 2018.
+He received his PhD degree from .
 
-Then he became a postdoctoral researcher in University of Science and Technology, China from Jan. 2019 to Oct. 2019.
+Then he became a postdoctoral researcher .
 
-In Dec. 2019, he joined University Of Maryland [QuICS](https://quics.umd.edu) as a Hartree Postdoctoral Fellow in quantum information science.
 
-[Google scholar profile](https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=zh-CN&authuser=1)
+
+[Google scholar profile]([https://scholar.google.com/citations?user=VVQuTDMAAAAJ&hl=zh-CN&authuser=1](https://scholar.google.com.hk/citations?user=MbaoUzsAAAAJ&hl=zh-CN))
 
