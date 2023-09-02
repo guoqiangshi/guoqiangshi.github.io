@@ -1,0 +1,10 @@
+@article{shi2020potential,
+  title={Potential of using phase correlation in distributed scatterer {I}n{SAR} applied to built scenarios},
+  author={Shi, Guoqiang and Ma, Peifeng and Lin, Hui and Huang, Bo and Zhang, Bowen and Liu, Yuzhou},
+  journal={Remote Sensing},
+  volume={12},
+  number={4},
+  pages={686},
+  year={2020},
+  publisher={MDPI}
+}

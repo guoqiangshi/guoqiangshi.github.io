@@ -1,0 +1,10 @@
+@article{shi2015acquiring,
+  title={Acquiring three-dimensional deformation of {K}ilauea's {S}outh {F}lank from {GPS} and {DInSAR} integration based on the ant colony optimization},
+  author={Shi, Guoqiang and He, Xiufeng and Xiao, Ruya},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={12},
+  number={12},
+  pages={2506--2510},
+  year={2015},
+  publisher={IEEE}
+}

@@ -1,0 +1,9 @@
+@article{shi2021surface,
+  title={Surface response and subsurface features during the restriction of groundwater exploitation in {S}uzhou ({C}hina) inferred from decadal {SAR} interferometry},
+  author={Shi, Guoqiang and Ma, Peifeng and Hu, Xie and Huang, Bo and Lin, Hui},
+  journal={Remote Sensing of Environment},
+  volume={256},
+  pages={112327},
+  year={2021},
+  publisher={Elsevier}
+}

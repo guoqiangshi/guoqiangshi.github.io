@@ -1,0 +1,9 @@
+@article{ma2019remotely,
+  title={Remotely sensing large-and small-scale ground subsidence: {A} case study of the {G}uangdong--{H}ong {K}ong--{M}acao {G}reater {B}ay {A}rea of {C}hina},
+  author={Ma, Peifeng and Wang, Weixi and Zhang, Bowen and Wang, Jili and Shi, Guoqiang and Huang, Guangqing and Chen, Fulong and Jiang, Liming and Lin, Hui},
+  journal={Remote Sensing of Environment},
+  volume={232},
+  pages={111282},
+  year={2019},
+  publisher={Elsevier}
+}

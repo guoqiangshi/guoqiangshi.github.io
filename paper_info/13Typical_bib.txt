@@ -1,0 +1,6 @@
+@book{shi2019typical,
+  title={Typical Urban Subsidence Revealed from Advanced Multitemporal {SAR} Interferometry},
+  author={Shi, Guoqiang},
+  year={2019},
+  publisher={The Chinese University of Hong Kong (Hong Kong)}
+}

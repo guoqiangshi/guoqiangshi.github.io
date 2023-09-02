@@ -1,0 +1,10 @@
+@article{shi2022distributed,
+  title={Distributed scatterer interferometry for forested and hilly areas using a topographical homogeneous filtering},
+  author={Shi, Guoqiang and Huang, Bo and Ma, Peifeng and Lin, Hui},
+  journal={Remote Sensing Letters},
+  volume={13},
+  number={5},
+  pages={460--469},
+  year={2022},
+  publisher={Taylor \& Francis}
+}

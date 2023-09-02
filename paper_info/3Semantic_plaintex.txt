@@ -1,0 +1,4 @@
+F. Xu, M.S. Wong, R. Zhu, J. Heo and G. Shi,
+"Semantic segmentation of urban building surface materials using multi-scale contextual attention network,"
+ISPRS Journal of Photogrammetry and Remote Sensing,
+vol.  202, pp. 158-168, 2023.

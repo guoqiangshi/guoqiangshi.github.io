@@ -1,0 +1,9 @@
+@article{xu2023semantic,
+  title={Semantic segmentation of urban building surface materials using multi-scale contextual attention network},
+  author={Xu, Fan and Wong, Man Sing and Zhu, Rui and Heo, Joon and Shi, Guoqiang},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={202},
+  pages={158--168},
+  year={2023},
+  publisher={Elsevier}
+}

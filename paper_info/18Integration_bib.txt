@@ -1,0 +1,8 @@
+@article{shi2014integration,
+  title={Integration of {GPS} and {DI}n{SAR} for Deformation Monitoring Based on Ant Colony Optimization},
+  author={Shi, Guoqiang and He, Xiufeng and Xiao, Ruya},
+  journal={Dragon 3Mid Term Results},
+  volume={724},
+  pages={114},
+  year={2014}
+}

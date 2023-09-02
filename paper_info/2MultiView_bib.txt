@@ -1,0 +1,9 @@
+@ARTICLE{10121341,
+  author={Gao, Zhuang and He, Xiufeng and Ma, Zhang-Feng and Shi, Guoqiang and Sha, Pengcheng},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Multi-View Clustering-Based Time Series Empirical Tropospheric Delay Correction}, 
+  year={2023},
+  volume={20},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2023.3273854}}

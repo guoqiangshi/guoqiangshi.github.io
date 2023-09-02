@@ -1,0 +1,10 @@
+@article{ma2021toward,
+  title={Toward fine surveillance: {A} review of multitemporal interferometric synthetic aperture radar for infrastructure health monitoring},
+  author={Ma, Peifeng and Lin, Hui and Wang, Weixi and Yu, Hanwen and Chen, Fulong and Jiang, Liming and Zhou, Lifan and Zhang, Zhengjia and Shi, Guoqiang and Wang, Jili},
+  journal={IEEE Geoscience and Remote Sensing Magazine},
+  volume={10},
+  number={1},
+  pages={207--230},
+  year={2021},
+  publisher={IEEE}
+}

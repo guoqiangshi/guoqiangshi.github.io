@@ -1,0 +1,9 @@
+@article{shi2019early,
+  title={Early soil consolidation from magnetic extensometers and full resolution {SAR} interferometry over highly decorrelated reclaimed lands},
+  author={Shi, Guoqiang and Lin, Hui and B{\"u}rgmann, Roland and Ma, Peifeng and Wang, Jili and Liu, Yuzhou},
+  journal={Remote Sensing of Environment},
+  volume={231},
+  pages={111231},
+  year={2019},
+  publisher={Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{shi2018hybrid,
+  title={A hybrid method for stability monitoring in low-coherence urban regions using persistent and distributed scatterers},
+  author={Shi, Guoqiang and Lin, Hui and Ma, Peifeng},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={11},
+  number={10},
+  pages={3811--3821},
+  year={2018},
+  publisher={IEEE}
+}

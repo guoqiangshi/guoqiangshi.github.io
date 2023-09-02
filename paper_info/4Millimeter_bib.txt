@@ -1,0 +1,9 @@
+@article{shi2022millimeter,
+  title={Millimeter slope ratcheting from multitemporal {SAR} interferometry with a correction of coastal tropospheric delay: {A} case study in {H}ong {K}ong},
+  author={Shi, Guoqiang and Huang, Bo and Leung, Anthony Kwan and Ng, Charles WW and Wu, Zhilu and Lin, Hui},
+  journal={Remote Sensing of Environment},
+  volume={280},
+  pages={113148},
+  year={2022},
+  publisher={Elsevier}
+}
