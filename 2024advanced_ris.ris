@@ -1,0 +1,23 @@
+TY  - JOUR
+T1  - Advanced algorithms on monitoring diurnal variations in dust aerosol properties using geostationary satellite imagery
+AU  - Li, Jing
+AU  - Wong, Man Sing
+AU  - Shi, Guoqiang
+AU  - Nichol, Janet Elizabeth
+AU  - Lee, Kwon Ho
+AU  - Chan, P.W.
+JO  - Remote Sensing of Environment
+VL  - 303
+SP  - 113996
+PY  - 2024
+DA  - 2024/03/15/
+SN  - 0034-4257
+DO  - https://doi.org/10.1016/j.rse.2024.113996
+UR  - https://www.sciencedirect.com/science/article/pii/S0034425724000075
+KW  - Geostationary satellite
+KW  - Dust aerosol
+KW  - Radiative transfer model
+KW  - Aerosol optical thickness
+KW  - Effective radius
+AB  - Geostationary satellite observations are essential on analyzing the effects of dust on the terrestrial and solar radiation budget. However, unified dust aerosol products for both solar and terrestrial spectra are currently under-researched. To fill this gap, two sets of algorithms were developed. Firstly, the dust aerosol retrieval algorithm at visible to near-infrared bands (DARV) was developed to estimate dust aerosol optical thickness (AOT) at 0.55 μm (τ0.55). The performance of DARV under heavy aerosol loadings was greatly improved by using a near-infrared band and spectral sensitivity factors with Advanced Himawari Imager (AHI) AOT products. Secondly, the dust aerosol retrieval algorithm at thermal-infrared bands (DART) was developed to retrieve AOT at 10.8 μm (τ10.8) and effective radius at coarse mode (reff) simultaneously. The DART outperforms other algorithms by (i) considering an emissivity ratio that advances the derivation of spectral surface brightness temperature, and (ii) including a spectral angle mapper that greatly constrains the retrieval uncertainties. Validation against the AERONET AOT shows a correlation coefficient (ρ), root mean square error (RMSE), and bias of 0.9, 0.26, and 0.06, respectively for the DARV algorithm at dust-dominated cases, and a ρ of 0.69 for the DART algorithm. Inter-comparisons among four officially released aerosol products and DARV AOT on five dust storm cases reveals that DARV is similar to VIIRS Deep Blue (DB) AOT with the highest ρ (ranging from 0.60 to 0.91) and lowest RMSE (ranging from 0.40 to 0.88). MODIS Deep Blue (DB) and Multi-angle Implementation of Atmospheric Correction (MAIAC) AOT are similar to each other and they are lower than the DARV and VIIRS AOT. The Japan Aerospace Exploration Agency (JAXA) AOT data are generally higher than the others. In addition, time series analysis of the three retrievals aided by the PM2.5, PM10, and wind field data verifies the trend of AOTVIR, AOTTIR and reff for a dust storm case throughout the daytime. The results and operational algorithms from this work could be further used for facilitating accurate estimation of dust radiative forcing and other relevant atmospheric research.
+ER  - 
