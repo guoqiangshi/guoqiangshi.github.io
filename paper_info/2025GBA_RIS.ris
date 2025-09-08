@@ -1,0 +1,26 @@
+TY  - JOUR
+T1  - Evaluation of InSAR applicability using a new multi-index and optical imagery: A case study in the Guangdong-Hong Kong-Macao greater bay area, China
+AU  - Zhang, Zhijie
+AU  - Wu, Songbo
+AU  - Zhao, Chaoying
+AU  - Shi, Guoqiang
+AU  - Ding, Xiaoli
+AU  - Zhang, Bochen
+AU  - Li, Ziyuan
+AU  - Wang, Yan
+AU  - Lu, Zhong
+JO  - Remote Sensing Applications: Society and Environment
+VL  - 37
+SP  - 101474
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2352-9385
+DO  - https://doi.org/10.1016/j.rsase.2025.101474
+UR  - https://www.sciencedirect.com/science/article/pii/S2352938525000278
+KW  - InSAR applicability
+KW  - Spectral index
+KW  - Google earth engine
+KW  - SAR visibility
+KW  - Guangdong-Hong Kong-Macao greater bay area
+AB  - Satellite interferometric synthetic aperture radar (InSAR) is widely used for monitoring ground deformation. However, its effectiveness can be limited by factors such as dense vegetation and complex mountainous terrain, which may result in insufficient monitoring point distribution. Evaluating InSAR applicability in advance allows us to select and configure optimal SAR data, achieving better application outcomes. This study proposes a novel approach for assessing InSAR applicability using innovative multi-index and optical imagery. We developed two new spectral indices to define land cover types and performed statistical analysis to quantify the influence of land cover on interferometric phase quality. Regions with limited SAR visibility were excluded using layover and shadow maps and R-Index method. The resultant InSAR applicability map was graded into four categories: Good, Moderate, Low, and Poor. Given the diverse geological hazards in the Guangdong-Hong Kong-Macao Greater Bay Area (GBA), China, prior evaluation of InSAR applicability can significantly improve geohazard investigations. We evaluated InSAR applicability in the GBA using Sentinel-2 and Copernicus DEM data and validated the results with Small Baseline Subset (SBAS) technique and Sentinel-1 SAR image dataset. The results indicate that 20.8% of the GBA is highly suitable for InSAR application, predominantly in built-up areas. In comparison, only 18.6% of the vegetated regions are moderately suitable due to sparse vegetation challenges. Over half of the GBA region faces challenges in InSAR application due to dense vegetation. The proposed method, executable via Google Earth Engine, can serve as an effective tool for InSAR suitability analysis in other geographical regions.
+ER  - 

@@ -1,0 +1,11 @@
+Songyang Li, Man Sing Wong, Rui Zhu, Guoqiang Shi, Jinxin Yang,
+Impacts of land surface temperature and ambient factors on near-surface air temperature estimation: A multisource evaluation using SHAP analysis,
+Sustainable Cities and Society,
+Volume 122,
+2025,
+106257,
+ISSN 2210-6707,
+https://doi.org/10.1016/j.scs.2025.106257.
+(https://www.sciencedirect.com/science/article/pii/S2210670725001349)
+Abstract: Near-surface air temperature (Ta) is a vital indicator depicting urban thermal environments and sustainability. Machine learning (ML) models have been increasingly adopted for Ta estimation. However, there is still an urgent need to investigate how daytime and nighttime Ta are impacted by multisource ambient physical and anthropogenic factors across various environments. To this end, geospatial datasets incorporating MODIS-derived land surface temperature and 29 ancillary factors were employed to estimate Ta from 292 stations in China using ML modeling (training: 2017–2020). The optimal LightGBM-based models outperformed and obtained testing RMSEs of 3.03 °C (daytime) and 2.64 °C (nighttime) in 2021. Distinct spatiotemporal patterns in stations’ Ta prediction were observed, with coastal areas showing better daytime estimates and northern mid-temperate regions exhibiting lower nighttime accuracy. Comprehensive and individual models-based SHapley Additive exPlanations (SHAP) interpretation highlights the importance of incorporating macroscale meteorological backgrounds and terrain-related variables for Ta estimation improvement, as well as the critical impact of local urban morphology and anthropogenic indicators. This study has the potential to offer suggestions on ambient factors for improving Ta modeling and future urban heat island-related planning within specific regional and local climatical contexts.
+Keywords: Near-surface air temperature; LST; LightGBM; SHAP; Influential Factor; Remote sensing

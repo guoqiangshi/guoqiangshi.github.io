@@ -1,0 +1,5 @@
+
+G. Shi, Z. Jiang, M. S. Wong, X. Ding, S. Wu and C. Zhao, "Multimodal land subsidence of the new reclaimed HKIA 3rd Runway from InSAR and independent component analysis," IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium, Athens, Greece, 2024, pp. 1624-1627, doi: 10.1109/IGARSS53475.2024.10641755.
+
+Z. Jiang, C. Zhao, X. Liu, G. Shi, M. Yan, Q. Zhang, J. Peng, "The Regional Differentiation on the Spatial Distribution and Influencing Factors of Potential Landslides Across the Entire Loess Plateau, China, Based on InSAR and Subregion XGBoost-SHAP Model," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 2024-2041, 2025, doi: 10.1109/JSTARS.2024.3504713.
+
